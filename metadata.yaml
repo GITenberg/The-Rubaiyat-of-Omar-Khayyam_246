@@ -1,5 +1,5 @@
 _repo: The-Rubaiyat-of-Omar-Khayyam_246
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: FitzGerald, Edward
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '138'
     url: http://www.gutenberg.org/2009/agents/138
     wikipedia: http://en.wikipedia.org/wiki/Edward_FitzGerald_%28poet%29
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Omar Khayyam
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1787
     wikipedia: http://en.wikipedia.org/wiki/Omar_Khayy%C3%A1m
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/246#The-Rubaiyat-of-Omar-Khayyam
 gutenberg_issued: '1995-04-01'
 gutenberg_type: Text
 identifiers:
